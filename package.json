@@ -1,0 +1,24 @@
+{
+  "name": "fis3-postpackager-hxq-load-file",
+  "version": "1.0.0",
+  "description": "好学区编译加载静态文件，fis3 组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berryliu/fis3-postpackager-hxq-load-file.git"
+  },
+  "keywords": [
+    "fis3",
+    "load",
+    "hxq"
+  ],
+  "author": "berryliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berryliu/fis3-postpackager-hxq-load-file/issues"
+  },
+  "homepage": "https://github.com/berryliu/fis3-postpackager-hxq-load-file#readme"
+}
